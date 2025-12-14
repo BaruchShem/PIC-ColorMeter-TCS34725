@@ -10,4 +10,4 @@ Main components used in this project
 5. 2 22pF Capacitors
 
 # Contact
-gmail: Baruchmumba@gmail.com
+gmail: baruchmumba@gmail.com
