@@ -9,5 +9,10 @@ Main components used in this project
 4. 2 4.7KΩ Resistors
 5. 2 22pF Capacitors
 
+# Software
+* IDE : MPLAB X IDE
+* Compiler : XC8
+* Language : C
+
 # Contact
 gmail: baruchmumba@gmail.com
